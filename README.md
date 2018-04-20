@@ -14,6 +14,8 @@ I found it's impossible to remember everything, so I think some cheat sheets may
         * [python](https://github.com/nblock/pdb-cheatsheet/releases)
     * Markdown
         * [markdown](https://guides.github.com/pdfs/markdown-cheatsheet-online.pdf)
+    * Vim
+        * [vim-basic](https://michaelgoerz.net/refcards/vimqrc.pdf)
 * [Learn Markdown](https://bitbucket.org/tutorials/markdowndemo)
 
 ### Cheatsheet requirement ###
