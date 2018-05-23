@@ -14,6 +14,10 @@ I found it's impossible to remember everything, so I think some cheat sheets may
         * [python](https://github.com/nblock/pdb-cheatsheet/releases)
     * Markdown
         * [markdown](https://guides.github.com/pdfs/markdown-cheatsheet-online.pdf)
+    * Vim
+        * [vim-basic](https://michaelgoerz.net/refcards/vimqrc.pdf)
+    * Shell
+        * [unix-shell](https://steve-parker.org/sh/cheatsheet.pdf)  \([more](http://www.cheat-sheets.org/)\)
 * [Learn Markdown](https://bitbucket.org/tutorials/markdowndemo)
 
 ### Cheatsheet requirement ###
@@ -32,6 +36,7 @@ Contact: gc771427477@gmail.com
 
 ### Related Work ###
 * Found an similar project:[https://devhints.io](https://github.com/rstacruz/cheatsheets)
+* Seems an ace's [refcards collection](https://michaelgoerz.net/refcards/)
 
 ### TODO ###
 * Maybe I can set up a simple search engine to access these cheat sheets quickly.
